@@ -64,4 +64,4 @@ Lagna     : Cancer
 
 ## Author
 
-**Phanindra**
+**Phanindra Bolla**
