@@ -12,12 +12,10 @@ The application uses **Swiss Ephemeris** for accurate astronomical calculations 
 - Calculate Lagna (Ascendant)
 - Automatic Latitude & Longitude Detection
 - Automatic Timezone Detection
-- Streamlit Web Interface
 
 ## Tech Stack
 
 - Python
-- Streamlit
 - Swiss Ephemeris (pyswisseph)
 - Geopy
 - TimezoneFinder
@@ -43,7 +41,6 @@ Lagna Calculation
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
 ```
 
 ## Sample Output
